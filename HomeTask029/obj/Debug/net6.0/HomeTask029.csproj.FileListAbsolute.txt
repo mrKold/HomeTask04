@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\HomeTask029.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\HomeTask029.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\HomeTask029.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\HomeTask029.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\HomeTask029.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\bin\Debug\net6.0\HomeTask029.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\bin\Debug\net6.0\HomeTask029.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\bin\Debug\net6.0\HomeTask029.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\bin\Debug\net6.0\HomeTask029.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\bin\Debug\net6.0\HomeTask029.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\HomeTask029.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\refint\HomeTask029.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\HomeTask029.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\HomeTask029.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTask029\obj\Debug\net6.0\ref\HomeTask029.dll
