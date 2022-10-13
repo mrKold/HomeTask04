@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\Ex030.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\Ex030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\Ex030.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\Ex030.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\Ex030.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\bin\Debug\net6.0\Ex030.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\bin\Debug\net6.0\Ex030.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\bin\Debug\net6.0\Ex030.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\bin\Debug\net6.0\Ex030.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\bin\Debug\net6.0\Ex030.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\Ex030.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\refint\Ex030.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\Ex030.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\Ex030.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex030\obj\Debug\net6.0\ref\Ex030.dll
