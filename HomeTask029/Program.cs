@@ -3,14 +3,8 @@
 
 Console.Clear();
 
-Console.WriteLine("Введите первое число массива: ");
-Console.WriteLine("Введите второе число массива: ");
-Console.WriteLine("Введите третье число массива: ");
-Console.WriteLine("Введите четвертое число массива: ");
-Console.WriteLine("Введите пятое число массива: ");
-Console.WriteLine("Введите шестое число массива: ");
-Console.WriteLine("Введите седьмое число массива: ");
-Console.WriteLine("Введите восьмое число массива: ");
+Console.WriteLine("Введите массив из 8-ми чисел: ");
+
 
 int[] array = new int[8];
 for ( int i = 0; i < 8; i++)
