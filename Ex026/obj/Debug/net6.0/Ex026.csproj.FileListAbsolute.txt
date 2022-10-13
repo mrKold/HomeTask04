@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\Ex026.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\Ex026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\Ex026.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\Ex026.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\Ex026.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\bin\Debug\net6.0\Ex026.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\bin\Debug\net6.0\Ex026.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\bin\Debug\net6.0\Ex026.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\bin\Debug\net6.0\Ex026.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\bin\Debug\net6.0\Ex026.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\Ex026.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\refint\Ex026.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\Ex026.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\Ex026.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\Ex026\obj\Debug\net6.0\ref\Ex026.dll
