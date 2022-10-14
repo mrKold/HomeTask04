@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\bin\Debug\net6.0\HomeTaskFindSecondMax.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\bin\Debug\net6.0\HomeTaskFindSecondMax.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\bin\Debug\net6.0\HomeTaskFindSecondMax.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\bin\Debug\net6.0\HomeTaskFindSecondMax.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\bin\Debug\net6.0\HomeTaskFindSecondMax.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\HomeTaskFindSecondMax.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\HomeTaskFindSecondMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\HomeTaskFindSecondMax.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\HomeTaskFindSecondMax.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\HomeTaskFindSecondMax.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\HomeTaskFindSecondMax.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\refint\HomeTaskFindSecondMax.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\HomeTaskFindSecondMax.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\HomeTaskFindSecondMax.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Функции продолжение\HomeTaskFindSecondMax\obj\Debug\net6.0\ref\HomeTaskFindSecondMax.dll
